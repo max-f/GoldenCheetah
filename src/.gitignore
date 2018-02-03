@@ -6,6 +6,13 @@ Info.plist
 *.xcodeproj
 gcconfig.pri
 
+# QtCreator
+src.pro.user
+*.autosave
+
+# MSVC2015
+*.opt
+
 # old skool
 .svn
 
